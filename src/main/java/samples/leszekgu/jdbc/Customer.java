@@ -1,4 +1,4 @@
-package hello;
+package samples.leszekgu.jdbc;
 
 public class Customer {
     private long id;

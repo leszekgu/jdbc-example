@@ -1,4 +1,4 @@
-package hello;
+package samples.leszekgu.jdbc;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

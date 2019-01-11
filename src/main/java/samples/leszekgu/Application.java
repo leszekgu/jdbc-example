@@ -1,4 +1,4 @@
-package hello;
+package samples.leszekgu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
